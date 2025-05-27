@@ -1,6 +1,6 @@
 from Clonify.core.bot import PRO
 from Clonify.core.dir import dirr
-from Clonify.core.git import git
+from Clonify.core.git import git_repo_setup # Changed from 'git'
 from Clonify.core.userbot import Userbot
 from Clonify.misc import dbb, heroku
 from pyrogram import Client
@@ -8,7 +8,7 @@ from SafoneAPI import SafoneAPI
 from .logging import LOGGER
 
 dirr()
-git()
+git_repo_setup() # Changed from 'git()'
 dbb()
 heroku()
 
