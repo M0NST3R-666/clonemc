@@ -96,6 +96,8 @@ The Clonify offers a range of commands to enhance your music listening experienc
 
 For a full list of commands, use `/help` in [telegram](https://t.me/AqiaBot).
 
+**Note** - Go to [Reload.py](https://github.com/TeamProBots/Clonify/blob/master/Clonify/plugins/tools/reload.py) then change my ID Number.
+
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
